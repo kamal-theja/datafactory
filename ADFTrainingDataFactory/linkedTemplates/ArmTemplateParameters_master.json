@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "ADFTrainingDataFactory"
 		},
+		"AzureBlobStorageLS_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
